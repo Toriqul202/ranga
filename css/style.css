@@ -47,7 +47,7 @@ body {
   justify-content: center;
   grid-column-gap: 30px;
   grid-row-gap: 10px;
-  margin-left: 10px;
+  margin-left:0px, 30px;
 }
 .single-product {
   padding: 10px;
